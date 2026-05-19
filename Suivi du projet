@@ -13,3 +13,17 @@ Les principaux intervenant :
 - organisateurs du tournois
 - les participants du tournois
 - le public du tournois 
+
+
+Définition du besoin :
+
+Personnas : 
+
+DSI de 3iL :
+Profil : 20-60, ébergeur, expert, sécurité des systeme informatique de 3iL (admin)
+Objectif :  - 	avoir un accès complet (admin) à l'application
+			- 	verifier la sécurité de l'application
+			- 	interrompre l'application en cas de manquement au règlement interrieur de l'école
+Frustration : 
+			- 	utilisation d'application multiple pour la gestion des tournois
+			- 	utilisation d'application tierce sans droit d'ingéreance.
