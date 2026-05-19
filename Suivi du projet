@@ -5,4 +5,11 @@ Arnaud et Théophane
 
 Contexte :
 Client : Application à destination du BDE (associassion étudiante)
-Le besoin : Organiser et simplifier la communication auprès des joueur des tournois mis en place par le BDE.
+Le besoin : Organiser et simplifier la communication auprès des joueur des tournois mis en place par le BDE
+Principe de la solution : créer une aplication web qui permet de créer et de paramétrer les tournois organiser par le BDE, et permettre avec cette même 
+application web d'avoir un accès public popur les paticipants et le public pour consulté les informations relatives aux tournois
+Les principaux intervenant : 
+- Les membres de la direction
+- organisateurs du tournois
+- les participants du tournois
+- le public du tournois 
