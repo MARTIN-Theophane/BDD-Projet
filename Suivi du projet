@@ -8,8 +8,8 @@ Client : Application à destination du BDE (associassion étudiante)
 Le besoin : Organiser et simplifier la communication auprès des joueur des tournois mis en place par le BDE
 Principe de la solution : créer une aplication web qui permet de créer et de paramétrer les tournois organiser par le BDE, et permettre avec cette même 
 application web d'avoir un accès public popur les paticipants et le public pour consulté les informations relatives aux tournois
-Les principaux intervenant : 
-- Les membres de la direction
+Les principaux intervenant :
+- DSI
 - organisateurs du tournois
 - les participants du tournois
 - le public du tournois 
@@ -25,5 +25,42 @@ Objectif :  - 	avoir un accès complet (admin) à l'application
 			- 	verifier la sécurité de l'application
 			- 	interrompre l'application en cas de manquement au règlement interrieur de l'école
 Frustration : 
-			- 	utilisation d'application multiple pour la gestion des tournois
+			- 	vérification application multiple pour la gestion des tournois
 			- 	utilisation d'application tierce sans droit d'ingéreance.
+Citation : 	"Le plus important n'est pas que ça marche, mais que soit sûr à utiliser."
+
+Organisateur tournois :
+Profil : 18-23 ans, organisateur, intermédiaire, à la création et pendant les tournois
+Objectif :  - 	créer des tournois
+			- 	définir les règles de chaque compétition
+			- 	gérer les inscriptions
+			- 	organiser les différentes rencontre
+			- 	Mettre à jour le classement
+Frustration : 
+			-	erreur inscription
+			- 	doublons de participant
+			-	difficulté à suivre la disponibilité et les équipes
+			- 	pas de jonction entre les différent outils utilisés
+Citation : "
+
+Participant :
+Profil : 18-23 ans, participant, novice-intermédiaire, à l'ouverture des incription jusqu'à la fin du tournois
+Objectif : 	- 	s'inscrire aux tournois
+			- 	Connaitre l'horaire et le lieu des parties auquel il est vonvié.
+			-	connaitre son score, sa position pendant et après la partie.
+Frustration :
+			-	Son profil de participant, son classement, et les horaire de ses partie sont sur des applications différentes
+			- 
+
+
+
+
+
+
+
+
+
+
+
+
+
