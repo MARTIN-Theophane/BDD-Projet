@@ -67,10 +67,37 @@ Citation : "Mais qu'est ce qui se passe ? on voit rien !"
 
 Fonctionnalité 
 
-création d'un tournois, où on rentre la date du tournois et la description des règles, où l'on rentre chaque joueur avec son horaire, son adversaire puis son score 
-et 
+Fonctionnalité					acteur 				US lié			priorité
 
+ajouter une page 				DSI					US01			MUST
+de lecture de logs dans
+l'aplication
 
+selectionner un 				DSI					US02			SHOULD
+utilisateur pour 
+changer ses droits
+
+avoir un panneau déroulant		DSI					US02			SHOULD
+pour selection les 
+pouvoirs à accorder 
+(lecture, modification, 
+enregistrement, suppression)
+
+ajouter dans la page 			DSI					US03			MUST
+admin un bouton pour 
+désactiver l'accès au 
+site
+
+Afficher tout les 				Organisateur		US04			MUST
+prochains tournois
+avec ses informations
+
+Créer un tournois en entrant 	Organisateur		US04			MUST
+son nom, sa date, son activité 
+et son nombre de participant
+maximal
+
+Ecrire la description des règle
 
 
 
