@@ -135,7 +135,7 @@ et progression du tournois
 
 Afficher les prochains matchs	Organisateur		US08			MUST
 ou les matchs d'un joueur 		Participant			US11
-précis							
+précis							Public				US15
 
 Créer automatiquement 			Organisateur		US08			COULD
 les matchs avec les règles
@@ -155,9 +155,13 @@ accepté
 
 Afficher score d'un joueur 		Participant			US12			MUST
 et sa position 					Organisateur		US09
-dans sa compétition
+dans sa compétition				Public				US14	
 
-Envoyer un message 
+Envoyer un message au joueur 	Participant			US13			SHOULD
+si changement dans ses matchs
+(lieu, horaire...)
+
+
 
 
 
