@@ -97,9 +97,43 @@ son nom, sa date, son activité
 et son nombre de participant
 maximal
 
-Ecrire la description des règle
+Création automatique des 		Organisateur		US04 			COULD
+couples de joueurs au fur et
+à mesure de l'avancement du 
+tournois
 
+Ecrire la description des 		Organisateur		US06			MUST
+règles au moment de la 
+création d'un tournois
 
+Définir le type de 				Organisateur		US06			SHOULD
+classement et le 
+fonctionnement de l'arbre de
+progression des joueurs
+
+Pouvoir retirer à tous 			Organisateur		US05			MUST		
+moments un joueur d'un 
+tournois
+
+Afficher l'ensemble de 			Organisateur		US07			MUST
+candidatures des joueurs 
+avec leur information 
+
+Vérifier automatiquement		Organisateur		US07			SHOULD
+les doublons
+
+Prévenir l'utilisateur ayant	Participant			US10			COULD		
+créer un doublons
+
+Créer des matchs avec 			Organisateur		US08			MUST
+participants, date et heure,
+et progression du tournois 
+(Demi-finale, finale...)
+
+Créer automatiquement 			Organisateur		US08			COULD
+les matchs avec les règles
+de classements et le type 
+d'arbre de progression 
 
 
 
