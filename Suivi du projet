@@ -89,7 +89,7 @@ désactiver l'accès au
 site
 
 Afficher tout les 				Organisateur		US04			MUST
-prochains tournois
+prochains tournois				Participant			US10
 avec ses informations
 
 Créer un tournois en entrant 	Organisateur		US04			MUST
@@ -97,8 +97,11 @@ son nom, sa date, son activité
 et son nombre de participant
 maximal
 
+Accepter les candidtures		Organisateur		US04			MUST
+des participants
+
 Création automatique des 		Organisateur		US04 			COULD
-couples de joueurs au fur et
+match au fur et
 à mesure de l'avancement du 
 tournois
 
@@ -130,14 +133,31 @@ participants, date et heure,
 et progression du tournois 
 (Demi-finale, finale...)
 
+Afficher les prochains matchs	Organisateur		US08			MUST
+ou les matchs d'un joueur 		Participant			US11
+précis							
+
 Créer automatiquement 			Organisateur		US08			COULD
 les matchs avec les règles
 de classements et le type 
 d'arbre de progression 
 
+Créer un classement évolutif 	Organisateur		US09			MUST
+avec le nombre d'équiques
+participantes
 
+Créer une candidature			Participant			US10			MUST
+pour un tournois	
 
+Recevoir un message				Participant			US10			SHOULD
+une fois la candidature
+accepté
 
+Afficher score d'un joueur 		Participant			US12			MUST
+et sa position 					Organisateur		US09
+dans sa compétition
+
+Envoyer un message 
 
 
 
